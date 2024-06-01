@@ -2,12 +2,21 @@
   "name": "combined-portfolio",
   "version": "1.0.0",
   "private": true,
+<<<<<<< HEAD
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
+=======
+ "scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start",
+  "lint": "next lint"
+},
+>>>>>>> e6aa8342538d78d43bdb1836d805ebdef7f762af
   "dependencies": {
     "@datastax/astra-db-ts": "^1.1.0",
     "@langchain/openai": "^0.0.13",
